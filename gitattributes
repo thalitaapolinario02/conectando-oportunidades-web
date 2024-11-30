@@ -1,0 +1,9 @@
+# Ignorar pasta do VS Code
+.vscode/
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+
+# Ignorar a pasta node_modules (se usar algum pacote de JavaScript)
+node_modules/
